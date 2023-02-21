@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\year3\\semester2\\ASP.net and ms sql server\\MovieApp\\Movie-App\\Movie-App\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\year3\\semester2\\ASP.net and ms sql server\\MovieApp\\Movie-App\\Movie-App\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\year3\\semester2\\ASP.net and ms sql server\\MovieApp\\Movie-App\\Movie-App\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Movie-App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Movie-App.props",
+      "PackagePath": "build\\Movie-App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Movie-App.props",
+      "PackagePath": "buildMultiTargeting\\Movie-App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Movie-App.props",
+      "PackagePath": "buildTransitive\\Movie-App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

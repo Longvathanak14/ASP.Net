@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "G7bK61GXhTujRfTDUQbWzskV+qEGQZZ/CY9bubJglj8=",
+  "Source": "Movie-App",
+  "BasePath": "_content/Movie-App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Movie-App\\wwwroot",
+      "Source": "Movie-App",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\MovieApp\\Movie-App\\Movie-App\\wwwroot\\",
+      "BasePath": "_content/Movie-App",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\MovieApp\\Movie-App\\Movie-App\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "Movie-App",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\MovieApp\\Movie-App\\Movie-App\\wwwroot\\",
+      "BasePath": "_content/Movie-App",
+      "RelativePath": "lib/bootstrap/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\MovieApp\\Movie-App\\Movie-App\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "SourceId": "Movie-App",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\MovieApp\\Movie-App\\Movie-App\\wwwroot\\",
+      "BasePath": "_content/Movie-App",
+      "RelativePath": "lib/bootstrap/js/bootstrap.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\MovieApp\\Movie-App\\Movie-App\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "SourceId": "Movie-App",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\MovieApp\\Movie-App\\Movie-App\\wwwroot\\",
+      "BasePath": "_content/Movie-App",
+      "RelativePath": "lib/bootstrap/js/bootstrap.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js"
+    }
+  ]
+}

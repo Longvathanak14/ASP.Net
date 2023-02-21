@@ -1,0 +1,102 @@
+﻿@using Movie_App.Models;
+
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div class="comtainer-fluid">
+        <div class="header text-center">
+            <h1>Movie</h1>
+        </div>
+        <div class="d-flex justify-content-end p-3">
+            <a href="/movies/edit" class="btn btn-success mx-2">Edit</a>
+            <a href="/movies/create" class="btn btn-primary">Create</a>
+        </div>
+        <div class="p-3">
+            <table class="table table-hover  rounded-3 shadow-sm">
+                <thead class="bg-secondary">
+                    <tr>
+                        <th>Id</th>
+                        <th>Title</th>
+                        <th>Description</th>
+                        <th>Genre</th>
+                        <th>ReleaseDate</th>
+                    </tr>
+                </thead>
+                @{
+                    var mvs = (Movie[]?)ViewData["mvs"];
+                }
+                @foreach (var item in mvs ?? Enumerable.Empty<Movie>())
+                {
+                    <tr>
+                        <td>
+                            @item.Id
+                        </td>
+                        <td>
+                            @item.Title
+                        </td>
+                        <td>
+                            @item.Description
+                        </td>
+                        <td>
+                            @item.Genre
+                        </td>
+                        <td>
+                            @item.ReleaseDate
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+        <div>
+            @{
+                var mv = ViewData["mv"] as Movie;
+                var x = 100;
+                var y = 1000;
+                string add = "Siem Reap";
+                @x;
+                @y;
+                @add;
+            }
+            @mv?.Id
+            @mv?.Title
+            @mv?.Description
+            @mv?.Genre
+            @mv?.ReleaseDate
+        </div>
+        <div>
+            @foreach(var item in (int[])ViewData["array"])
+            {
+                <li>@item</li>
+            }
+        </div>
+    
+    
+  
+    @*<img src="/Images/Movie.jpg" alt=""/>
+    <script src="~/bootstrap/js/bootstrap.bundle.js"></script>*@
+
+    
+    @*@foreach(var item in ViewBag.Ex)
+    {
+
+    <p>@item</p>
+    }*@
+    @*<pre>
+    @ViewBag.movie.Id
+    @ViewBag.movie.Title
+    @ViewBag.movie.Description
+    @ViewBag.movie.Genre
+    @ViewBag.movie.ReleaseDate
+
+    </pre>*@
+   
+    </div>
+</body>
+</html>
