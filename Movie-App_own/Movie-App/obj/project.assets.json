@@ -9073,11 +9073,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\year3\\semester2\\ASP.net and ms sql server\\MovieApp\\Movie-App\\Movie-App\\Movie-App.csproj",
+      "projectUniqueName": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\Movie-App\\Movie-App\\Movie-App.csproj",
       "projectName": "Movie-App",
-      "projectPath": "D:\\year3\\semester2\\ASP.net and ms sql server\\MovieApp\\Movie-App\\Movie-App\\Movie-App.csproj",
+      "projectPath": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\Movie-App\\Movie-App\\Movie-App.csproj",
       "packagesPath": "C:\\Users\\CKP2\\.nuget\\packages\\",
-      "outputPath": "D:\\year3\\semester2\\ASP.net and ms sql server\\MovieApp\\Movie-App\\Movie-App\\obj\\",
+      "outputPath": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\Movie-App\\Movie-App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CKP2\\AppData\\Roaming\\NuGet\\NuGet.Config",

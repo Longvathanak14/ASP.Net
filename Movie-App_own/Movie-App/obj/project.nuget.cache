@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/7g+LGS2/k4Tt+yagqJKR1J/wyDu2F8qIEUL3Muuzv+fJ/Oek7vN/AzPEsz8QxPbNIGw8Y3f8ohfcYG4CrK5eg==",
+  "dgSpecHash": "9WbDxyy7L6XxWDYBdlh6CMHyrjpyFbDpV7IxQTqwtAqOoDN6Y2gurmbuoxZw+h03DfIfi8Pnz0EQHWBvPnRKbg==",
   "success": true,
-  "projectFilePath": "D:\\year3\\semester2\\ASP.net and ms sql server\\MovieApp\\Movie-App\\Movie-App\\Movie-App.csproj",
+  "projectFilePath": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\Movie-App\\Movie-App\\Movie-App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CKP2\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\CKP2\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.11\\microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",
