@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NgAHy+DD9FnDpXbcNPRBRdVemK/GRVpb6u9ykidEFKcEc2g7xyVLV80d55UW0K010JJ6r7WaMzR717nrD477nA==",
+  "dgSpecHash": "enGghLRkA7NPgIDAJr9JDhkrX6kLf+DgCg3yD0a6FaxdYe859Fpnc/1VIaCrD5jh897p7kJWO7avKzzHgpmQMw==",
   "success": true,
-  "projectFilePath": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\MovieApp.csproj",
+  "projectFilePath": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\MovieApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CKP2\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\CKP2\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

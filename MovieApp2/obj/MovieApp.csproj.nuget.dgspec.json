@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\MovieApp.csproj": {}
+    "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\MovieApp.csproj": {}
   },
   "projects": {
-    "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\MovieApp.csproj": {
+    "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\MovieApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\MovieApp.csproj",
+        "projectUniqueName": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\MovieApp.csproj",
         "projectName": "MovieApp",
-        "projectPath": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\MovieApp.csproj",
+        "projectPath": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\MovieApp.csproj",
         "packagesPath": "C:\\Users\\CKP2\\.nuget\\packages\\",
-        "outputPath": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\obj\\",
+        "outputPath": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CKP2\\AppData\\Roaming\\NuGet\\NuGet.Config",

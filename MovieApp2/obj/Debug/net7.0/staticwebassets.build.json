@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xhp/zrac+PjawJyQibDJC4bgGxMvyZ2IW6bas1uy8PI=",
+  "Hash": "4QFgowStQqsAg1hVqp4wBn4Bcu2qC9VT1fkN0pNRZBs=",
   "Source": "MovieApp",
   "BasePath": "_content/MovieApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MovieApp\\wwwroot",
       "Source": "MovieApp",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\fonts\\css\\all.min.css",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\fonts\\css\\all.min.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "fonts/css/all.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\css\\all.min.css"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\fonts\\js\\all.min.js",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\fonts\\js\\all.min.js",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "fonts/js/all.min.js",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\js\\all.min.js"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\Index.css",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\Index.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "Index.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\Index.css"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\jquery\\jquery.min.js",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\jquery\\jquery.min.js",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "jquery/jquery.min.js",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\jquery\\jquery.min.js"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\css\\adminlte.min.css",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\css\\adminlte.min.css",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/css/adminlte.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\css\\adminlte.min.css"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\AdminLTELogo.png",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\AdminLTELogo.png",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/AdminLTELogo.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\AdminLTELogo.png"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\avatar.png",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\avatar.png",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/avatar.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\avatar.png"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\avatar2.png",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\avatar2.png",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/avatar2.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\avatar2.png"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\avatar3.png",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\avatar3.png",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/avatar3.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\avatar3.png"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\avatar4.png",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\avatar4.png",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/avatar4.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\avatar4.png"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\avatar5.png",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\avatar5.png",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/avatar5.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\avatar5.png"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\boxed-bg.jpg",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\boxed-bg.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/boxed-bg.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\boxed-bg.jpg"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\boxed-bg.png",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\boxed-bg.png",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/boxed-bg.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\boxed-bg.png"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\credit\\american-express.png",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\credit\\american-express.png",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/credit/american-express.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\credit\\american-express.png"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\credit\\cirrus.png",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\credit\\cirrus.png",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/credit/cirrus.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\credit\\cirrus.png"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\credit\\mastercard.png",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\credit\\mastercard.png",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/credit/mastercard.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\credit\\mastercard.png"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\credit\\paypal.png",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\credit\\paypal.png",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/credit/paypal.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\credit\\paypal.png"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\credit\\paypal2.png",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\credit\\paypal2.png",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/credit/paypal2.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\credit\\paypal2.png"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\credit\\visa.png",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\credit\\visa.png",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/credit/visa.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\credit\\visa.png"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\default-150x150.png",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\default-150x150.png",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/default-150x150.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\default-150x150.png"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\icons.png",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\icons.png",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/icons.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\icons.png"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\photo1.png",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\photo1.png",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/photo1.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\photo1.png"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\photo2.png",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\photo2.png",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/photo2.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\photo2.png"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\photo3.jpg",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\photo3.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/photo3.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\photo3.jpg"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\photo4.jpg",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\photo4.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/photo4.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\photo4.jpg"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\prod-1.jpg",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\prod-1.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/prod-1.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\prod-1.jpg"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\prod-2.jpg",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\prod-2.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/prod-2.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\prod-2.jpg"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\prod-3.jpg",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\prod-3.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/prod-3.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\prod-3.jpg"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\prod-4.jpg",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\prod-4.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/prod-4.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\prod-4.jpg"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\prod-5.jpg",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\prod-5.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/prod-5.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\prod-5.jpg"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\user1-128x128.jpg",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\user1-128x128.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/user1-128x128.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\user1-128x128.jpg"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\user2-160x160.jpg",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\user2-160x160.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/user2-160x160.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\user2-160x160.jpg"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\user3-128x128.jpg",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\user3-128x128.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/user3-128x128.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\user3-128x128.jpg"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\user4-128x128.jpg",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\user4-128x128.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/user4-128x128.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\user4-128x128.jpg"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\user5-128x128.jpg",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\user5-128x128.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/user5-128x128.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\user5-128x128.jpg"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\user6-128x128.jpg",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\user6-128x128.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/user6-128x128.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\user6-128x128.jpg"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\user7-128x128.jpg",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\user7-128x128.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/user7-128x128.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\user7-128x128.jpg"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\img\\user8-128x128.jpg",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\img\\user8-128x128.jpg",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/img/user8-128x128.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\img\\user8-128x128.jpg"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\js\\adminlte.min.js",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\js\\adminlte.min.js",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/js/adminlte.min.js",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lte\\js\\adminlte.min.js"
     },
     {
-      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\lte\\js\\demo.min.js",
+      "Identity": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\lte\\js\\demo.min.js",
       "SourceId": "MovieApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp\\wwwroot\\",
+      "ContentRoot": "D:\\year3\\semester2\\ASP.net and ms sql server\\Git\\ASP.Net\\MovieApp2\\wwwroot\\",
       "BasePath": "_content/MovieApp",
       "RelativePath": "lte/js/demo.min.js",
       "AssetKind": "All",
