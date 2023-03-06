@@ -15,8 +15,18 @@ namespace MovieApp.Controllers
             _movie = movie;
         }
 
-
         [HttpGet]
+        public ViewResult List(string txtsearch)
+        {
+            var movies = _movie.GetsAllMovie();
+            if (!string.IsNullOrEmpty(txtsearch))
+            {
+                movies = movies.Where(m => m.Title.StartsWith(txtsearch)).ToList().AsReadOnly();
+            }
+            return View("List", movies);
+        }
+
+            [HttpGet]
         public ViewResult Index()
         {
             var movies=_movie.GetsAllMovie();
